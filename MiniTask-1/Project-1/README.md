@@ -1,8 +1,8 @@
 # Webcam Privacy Friend
 
 *All of us must have used some or other method to cover our webcams to aid our privacy from hackers! This Webcam Privacy Friend will help you to make this job easy!*
-
-For this project, we will need:
+<br>
+##### For this project, we will need:
 
 1. Micro servo motor
 2. Servo motor extension wire (or make your own with ribbon cable and header pins)
@@ -13,10 +13,9 @@ For this project, we will need:
 7. 3D printer
 8. PLA filament in white, black, and two additional colors of your choice
 9. Solderless breadboard
-10. Prototyping wires
-11. USB cable
+10. USB cable
 
 ## Project Flow:
 
-![CircuitDiagram.png](/MiniTask-1/CCircuitDiagram.png)
-![image.png](.media/img_7.png)
+![img_8.png](.media/img_10.png)
+![img_6.png](.media/img_12.png)
