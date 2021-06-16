@@ -1,5 +1,7 @@
 # Webcam Privacy Friend
 
+*All of us must have used some or other method to cover our webcams to aid our privacy from hackers! This Webcam Privacy Friend will help you to make this job easy!*
+
 For this project, we will need:
 
 1. Micro servo motor
@@ -16,5 +18,5 @@ For this project, we will need:
 
 ## Project Flow:
 
-![CircuitDiagram.png](/MiniTask-1/CircuitDiagram.png)
-
+![CircuitDiagram.png](/MiniTask-1/CCircuitDiagram.png)
+![image.png](.media/img_7.png)
